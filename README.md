@@ -1,3 +1,3 @@
 # demo
 first demo repo
-hello
+hello(man)
